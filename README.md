@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, my name is Jeffrey Lee
+- 🌱 I am a fresher data analyst
+- 🛠️ I am open to collaborate on data analysis projects and solving problems
+- 📫 How to reach me: [linkedin](/https://www.linkedin.com/in/lee-boon-chek)
+
+
 
 <!--
 **87Iodo/87Iodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
